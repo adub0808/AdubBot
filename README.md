@@ -18,6 +18,6 @@ https://github.com/RLBot/RLBotPythonExample/wiki
 - Bot maneuvers are stored in `src/maneuvers`
 - Bot controls are stored in `src/controllers`
 - Bot strategies/tactics are stored in `src/behaviors`
-- Bot's vector calcualtions are controlled by `src/vec.py`
+- Bot's vector calcualtions are controlled by `src/util/vec.py`
 
 See https://github.com/RLBot/RLBotPythonExample/wiki for documentation and tutorials.
